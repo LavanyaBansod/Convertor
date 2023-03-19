@@ -1,2 +1,2 @@
 # Convertor
-Convertion of Coordinates (Cartesian, Cylindrical, Spherical)
+GUI-Convertion of Coordinates (Cartesian, Cylindrical, Spherical)
